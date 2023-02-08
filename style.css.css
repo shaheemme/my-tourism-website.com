@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: azure;
+    background-size: cover;
+  }
+  h1{
+    display:flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+  }
+  header nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header nav ul li {
+    margin: 0 10px;
+  }
+  
+  header nav ul li a {
+    color: rgb(234, 42, 255);
+    text-decoration: none;
+  }
+  
+  section h2 {
+    text-align: center;
+    color: rgb(65, 1, 1);
+  }
+  
+  footer {
+    text-align: center;
+    color: rgb(65, 0, 0);
+    
+    padding: 20px;
+  }
+  
+  
